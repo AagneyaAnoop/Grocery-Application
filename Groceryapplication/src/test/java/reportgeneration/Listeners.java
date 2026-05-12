@@ -9,7 +9,7 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 
-import groceryutilities.ExtentReportUtility;
+import utilities.ExtentReportUtility;
 
 public class Listeners implements ITestListener{
 	

@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 
 import constant.Constant;
-import groceryutilities.ScreenShotUtility;
+import utilities.ScreenShotUtility;
 
 public class GroceryBase {
 	

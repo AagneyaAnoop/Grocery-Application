@@ -1,4 +1,4 @@
-package groceryutilities;
+package utilities;
 
 import java.time.Duration;
 

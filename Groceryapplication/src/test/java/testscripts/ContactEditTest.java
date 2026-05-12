@@ -1,4 +1,4 @@
-package grocerytestscripts;
+package testscripts;
 
 import java.io.IOException;
 
@@ -7,11 +7,11 @@ import org.testng.annotations.Test;
 
 import constant.Constant;
 import grocerycore.GroceryBase;
-import grocerypages.ContactEditPage;
-import grocerypages.HomePage;
-import grocerypages.LoginPage;
-import groceryutilities.ExcelUtility;
-import groceryutilities.RandomDataUtility;
+import pages.ContactEditPage;
+import pages.HomePage;
+import pages.LoginPage;
+import utilities.ExcelUtility;
+import utilities.RandomDataUtility;
 
 public class ContactEditTest extends GroceryBase {
 	

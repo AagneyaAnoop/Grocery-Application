@@ -1,4 +1,4 @@
-package grocerytestscripts;
+package testscripts;
 
 import java.io.IOException;
 import org.testng.Assert;
@@ -6,9 +6,9 @@ import org.testng.annotations.Test;
 
 import constant.Constant;
 import grocerycore.GroceryBase;
-import grocerypages.HomePage;
-import grocerypages.LoginPage;
-import groceryutilities.ExcelUtility;
+import pages.HomePage;
+import pages.LoginPage;
+import utilities.ExcelUtility;
 
 public class HomeTest extends GroceryBase {
 	

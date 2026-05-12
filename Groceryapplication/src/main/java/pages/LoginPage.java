@@ -1,11 +1,11 @@
-package grocerypages;
+package pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import groceryutilities.WaitUtility;
+import utilities.WaitUtility;
 
 public class LoginPage {
 
